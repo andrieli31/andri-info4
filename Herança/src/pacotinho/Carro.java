@@ -10,7 +10,5 @@ public class Carro extends Veículo {
 
 	public void desligar() {
 	}
-	public void acelear () {
-		
-	}
+	
 }
